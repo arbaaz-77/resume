@@ -11,7 +11,7 @@
   --secondaryTextColor-dark: #adb0b1;
   --mainLinkColor-dark: rgb(30, 190, 214);
   --mainBorderColor-dark: #2b3031;
-  --mainBgColor-dark: #131415;
+  --mainBgColor-dark: #1c2334;
 
   --mainTextColor: var(--mainTextColor-dark);
   --secondaryTextColor: var(--secondaryTextColor-dark);
@@ -59,6 +59,10 @@ li {
 .section--page {
   padding-top: 1em;
   padding-bottom: 1em;
+}
+
+.education {
+  font-size: 1.1rem;
 }
 
 #wrapper--hero {
